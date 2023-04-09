@@ -1,0 +1,6 @@
+.coverage
+.git
+.mypy_cache
+.venv
+poetry.lock
+requirements.txt
